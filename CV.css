@@ -3,9 +3,31 @@
   padding: 0;
 }
 
+
 #grund{
+  background-color: #ffd79c;
+  width: 100vw;
+  height: 100vh;
+}
+
+#sida{
   background-color: grey;
-  width: 220px;
-  height: 800px;
+  width: 25vw;
+  height: 100vh;
+  margin-right: auto;
+  text-align: center;
+}
+
+#text{
+width: 825px;
+height: 80vh;
+background-color: white;
+margin-left: 400px;
+}
+
+#text2{
+  background-color: purple;
+  width: 50px;
+  height: 50px;
 
 }
